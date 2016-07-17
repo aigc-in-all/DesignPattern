@@ -1,1 +1,1 @@
-![](.jpg)
+![](https://github.com/heqingbao/DesignPattern/blob/master/umls/state_pattern_uml_diagram.jpg)

@@ -1,1 +1,1 @@
-![](abstractfactory_pattern_uml_diagram.jpg)
+![](https://github.com/heqingbao/DesignPattern/blob/master/umls/abstractfactory_pattern_uml_diagram.jpg)

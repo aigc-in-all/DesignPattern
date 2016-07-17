@@ -1,1 +1,1 @@
-![](dao_pattern_uml_diagram.jpg)
+![](https://github.com/heqingbao/DesignPattern/blob/master/umls/dao_pattern_uml_diagram.jpg)
